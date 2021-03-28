@@ -172,7 +172,6 @@ qubo07.com
 ||mp.weixin.qq.com/mp/getappmsgad^
 ||mp.weixin.qq.com/mp/advertisement^
 .zxc454.com^
-||img.alicdn.com^
 ||k.qsbxg2.com^
 ||gn.lalaqky.cn^
 ||at.alicdn.com^
