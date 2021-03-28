@@ -206,7 +206,6 @@ qubo07.com
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
 ||3337729.com^
 ||fiehff.com^
-||img.alicdn.com/imgextra/*
 ||3337751.com^
 ||5551922.com^
 ||d0d4af1828440779.com/love/index-header.js
