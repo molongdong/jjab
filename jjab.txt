@@ -264,3 +264,4 @@ lldk.hsdfhb.com^
 llfei.luluyouyue.com^
 llsyndication.realsrv.com/ webmshare.com##.close
 webmshare.com###app > div.container:nth-child(2) > div.visible-xs.alert.alert-info:nth-child(2)
+webmshare.com##.hidden-xs, .alert, .alert-info
