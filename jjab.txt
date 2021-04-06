@@ -268,3 +268,10 @@ webmshare.com##.hidden-xs, .alert, .alert-info
 ||js.weilekangnet.com:59988/js/js_all.js?v=1
 ||js.weilekangnet.com:59988/js/js_all.js?v=1
 ||s3t3d2y7.ackcdn.net^
+||js.weilekangnet.com:59988/js/js_all.js?v=1
+||goofypismica.com^
+||s3t3d2y7.ackcdn.net^
+||zh.chaturbate.com^
+hentaispark.com###sticky-banner-3876716 > iframe:first-child
+||zh.stripchat.com^
+||bongacams.com^
