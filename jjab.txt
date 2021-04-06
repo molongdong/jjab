@@ -40,7 +40,6 @@
 @@||media.trafficjunky.net^$domain=cn.pornhub.com
 @@||pppp.642p.com^
 @@||rule34.world^$app=com.example.hikerview
-@@hentaispark.com
 @@koubei-cateogory.alicdn.com
 @@webmshare.com
 @@webplay.weilekangnet.com:59666^
