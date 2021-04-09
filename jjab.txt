@@ -274,3 +274,4 @@ webmshare.com##.hidden-xs, .alert, .alert-info
 hentaispark.com###sticky-banner-3876716 > iframe:first-child
 ||zh.stripchat.com^
 ||bongacams.com^
+||img01.pp3q.com:58888/img/tg/
