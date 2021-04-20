@@ -300,3 +300,6 @@ hentaispark.com###sticky-banner-3876716 > iframe:first-child
 ||3337726.com^
 ||116.193.169.58^
 ||3337753.com^
+||img.xstbxn.cn^
+||ps.ssl.qhmsg.com^
+/skin/base.js
