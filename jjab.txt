@@ -330,4 +330,6 @@ llfei.luluyouyue.com^
 llsyndication.r+B181:B264srv.com/ webmshare.com##.close
 webmshare.com###app > div.container:nth-child(2) > div.visible-xs.alert.alert-info:nth-child(2)
 webmshare.com##.hidden-xs, .alert, .alert-info
-
+/js/prebid-ads.js
+||googletagmanager.com^
+||xanimu.com/core/cache/minify/9be0d.default.include-footer.364d41.js
