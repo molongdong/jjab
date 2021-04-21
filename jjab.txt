@@ -333,3 +333,7 @@ webmshare.com##.hidden-xs, .alert, .alert-info
 /js/prebid-ads.js
 ||googletagmanager.com^
 ||xanimu.com/core/cache/minify/9be0d.default.include-footer.364d41.js
+##.beside-video
+##.after-boxes
+###content > div.container.container-lg.p-0:nth-child(2) > div.video-loop > div.row.no-gutters:first-child > div.order-1.order-sm-1.order-md-1.order-lg-1.order-xl-1.col-12.col-md-6.col-lg-6.col-xl-4:first-child > div.inside-list-boxes:first-child > div.inside-list-absolute.d-flex.align-items-center.justify-content-center
+##.related-boxes-footer
