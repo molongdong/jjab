@@ -129,7 +129,6 @@ bilibili.com##.vcd
 ||main17.fushengdc.com^
 ||m12v.cc^
 ||m.pumamall.cn^
-||m.czjiamei.com/template/55sky/images/jquery.min.js
 ||m.czjiamei.com/js/zepto.min.js
 ||m.czjiamei.com/js/8853/nry1.js
 ||m.czjiamei.com/js/8853/nry.js
@@ -150,7 +149,6 @@ bilibili.com##.vcd
 ||k.qsbxg2.com^
 ||juhuasuanguanwang.cn^
 ||js.weilekangnet.com:59988/js/js_all.js?v=1
-||js.weilekangnet.com:59988/js/jquery.min.js
 ||janfeel.com^
 ||imgs.dlads.cn^
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=^
@@ -304,14 +302,11 @@ bilibili.com##.vcd
 @@||downmobile.kugou.com/upload/custom_sound^
 @@||dataflow.biliapi.com^$app=com.bilibili.app.in
 @@||cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.min.js$domain=avgle.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js$domain=avgle.com
 @@||c.tieba.baidu.com/c/s/msg$app=com.huanchengfly.tieba.post
 @@||at.alicdn.com/t/*$domain=space.bilibili.com
 @@||app.adjust.world^
 @@||a.realsrv.com/ads.js$domain=hentaispark.com
 @@||4hubb38.com/skin/base.js
-@@/js/jquery.min.js
 /wz/dp_img.js
 /tj_vod.js
 /tj_baidu_yw.js
@@ -365,4 +360,3 @@ bilibili.com##.vcd
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child > a
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child
 ###btmBox > div.wrap > div.mod.clearfix
-@@/
