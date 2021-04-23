@@ -360,3 +360,4 @@ bilibili.com##.vcd
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child > a
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child
 ###btmBox > div.wrap > div.mod.clearfix
+###hengfu_pc_vod_shang_img
