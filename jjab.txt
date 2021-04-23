@@ -360,3 +360,4 @@ webmshare.com##.hidden-xs, .alert, .alert-info
 ###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:last-child > dt:first-child > a
 ###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:last-child > dt:first-child
 ###midBox > div.wrap:first-child
+@@/js/jquery.min.js
