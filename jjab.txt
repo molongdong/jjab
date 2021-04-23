@@ -337,3 +337,26 @@ webmshare.com##.hidden-xs, .alert, .alert-info
 ##.after-boxes
 ###content > div.container.container-lg.p-0:nth-child(2) > div.video-loop > div.row.no-gutters:first-child > div.order-1.order-sm-1.order-md-1.order-lg-1.order-xl-1.col-12.col-md-6.col-lg-6.col-xl-4:first-child > div.inside-list-boxes:first-child > div.inside-list-absolute.d-flex.align-items-center.justify-content-center
 ##.related-boxes-footer
+||361ax.vip^
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:first-child > dt:first-child > a
+###coupletRight > ul > li > a:nth-child(2)
+###coupletRight > ul > li
+###coupletLeft > ul > li > a:nth-child(2)
+###coupletLeft > ul > li
+###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:last-child > dt:first-child > a
+###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:last-child > dt:first-child
+###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child > a
+###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child
+###btmBox > div.wrap > div.mod.clearfix
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:first-child > dt:first-child
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(2) > dt:first-child > a
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(2) > dt:first-child
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(3) > dt:first-child > a
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(3) > dt:first-child
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(4) > dt:first-child > a
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(4) > dt:first-child
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(5) > dt:first-child > a
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(5) > dt:first-child
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:last-child > dt:first-child > a
+###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:last-child > dt:first-child
+###midBox > div.wrap:first-child
