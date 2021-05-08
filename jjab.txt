@@ -389,3 +389,14 @@ xanimu.com##.beside-video
 xanimu.com##.inside-list-absolute, .d-flex, .align-items-center, .justify-content-center
 xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
+||s4.histats.com^
+||ps.ssl.qhmsg.com^
+||syndication.realsrv.com/vregister.php
+||s3t3d2y7.ackcdn.net^
+||syndication.realsrv.com^
+||zh.stripchat.com^
+/skin/jquery-2.2.4.min.js
+||361ey.vip^
+||87yyhh.com^
+||251hgvip.com^
+||361ez.vip^
