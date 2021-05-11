@@ -23,6 +23,8 @@
 ###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(5) > dt:first-child
 ###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(5) > dt:first-child > a
 ###slide_ad > div.slide-gg
+*/ads/
+*/tj.js|
 .00fs.pro
 .91adv.com
 .ahhykg.cn
@@ -50,6 +52,7 @@
 /new/assets/js/common/discor/discor.js
 /p1.js
 /sentry-5.6.3.min.js
+/skin/jquery-2.2.4.min.js
 /tj_baidu_yw.js
 /tj_vod.js
 /wz/dp_img.js
@@ -90,6 +93,7 @@
 ||192.200.123.210^
 ||22.seawill.cn^
 ||23.sn666i.xyz^
+||251hgvip.com^
 ||3187.dlads.cn/alikes.php?id=5997
 ||3336653.com^
 ||3337726.com^
@@ -101,6 +105,8 @@
 ||3337781.com^
 ||3337783.com^
 ||361ax.vip^
+||361ey.vip^
+||361ez.vip^
 ||3dmgame.com/page/images/icon_ad.png
 ||4huf38.com/css/js/jquery-3.3.1.min.js
 ||5550367.com^
@@ -108,11 +114,13 @@
 ||5551650.com^
 ||5551922.com^
 ||6117222.com^
+||87yyhh.com^
 ||888.ssznrs.com^
 ||91adv.com^
 ||9yu.ncilee.cn^
 ||a.realsrv.com^
 ||a99p.com^
+||adserver.juicyads.com^
 ||ae01.alicdn.com^
 ||ae01.alicdn.com^$important
 ||ae04.alicdn.com^
@@ -168,11 +176,14 @@
 ||dreamseekerguziqi.com^
 ||dt12.jxzcfl.com$popup
 ||dt14.xxsxeyfd.com^
+||dyx0878.cn^
 ||eo.5wrtrq.cn^
 ||eo.mc-t.com.cn^
+||evtubescms.phncdn.com^
 ||fa.sdxctr.com^
 ||fabricductmaster.com^
 ||facilitategovernor.com
+||fans.91p20.space^
 ||feedback-api.aliyuncs.com^
 ||ff.ronyaodailian.cn^
 ||fgu.kjkdb.cn^
@@ -201,6 +212,7 @@
 ||hm.baidu.com^
 ||huya-kefu.oss-cn-hangzhou.aliyuncs.com^
 ||hw-cdn.trafficjunky.net/uploaded_content/creative/*$domain=cn.pornhub.com
+||hw-cdn2.adtng.com/a7/creatives/*
 ||hyfgh.com^
 ||hzrmwrzek3.xnqncs.com^
 ||i0.hdslb.com/bfs/sycp/*
@@ -266,6 +278,7 @@
 ||pos.baidu.com^
 ||ps.ssl.qhmsg.com^
 ||public.andian-ceramic.cn^
+||push.zhanzhang.baidu.com/push.js
 ||q6.zyg1eg.cn^
 ||qfihdr.com^
 ||qingrihr.cn^
@@ -279,6 +292,7 @@
 ||richu-d.com^
 ||rsdatas.oss-accelerate.aliyuncs.com^
 ||s3t3d2y7.ackcdn.net^
+||s4.histats.com^
 ||s58p.com/imaegs/jquery/ff.js
 ||s58p.com/love/dl.js
 ||s58p.com/love/footer.js
@@ -286,6 +300,7 @@
 ||s58p.com/rd/rd.js
 ||sc01.alicdn.com/kf/*
 ||sc01.alicdn.com^
+||sc03.alicdn.com^
 ||sfdh1.com/skin/1jia0/img/
 ||sfdh1.com/skin/1jia0/more/css/pccss.css
 ||sfdh1.com/skin/1jia0/more/js/easing.js
@@ -307,6 +322,7 @@
 ||staticurl1.shenqizhilv.com:*/img/tg//gif/*.gif
 ||staticurl1.shenqizhilv.com:57777/img/tg//gif/*.gif
 ||stooav.com^$popup
+||syndication.realsrv.com/vregister.php
 ||syndication.realsrv.com^
 ||syndication.realsrv.com^$popup
 ||szs2hs.chuzhigou.com^
@@ -321,6 +337,7 @@
 ||vbf340126.ahhykg.cn^
 ||vbf340126.u05m.cn^
 ||vsd2319993.lsiskol.cn^
+||vz-cdn2.adtng.com^
 ||w7.sn666t.xyz^
 ||wandewealth.com
 ||wandewealth.com^
@@ -361,6 +378,7 @@
 ||zswinwin.xyz^
 ||zx-28.com^
 ||zx-68.com^
+||zxptw.cn^
 ||zz.bdstatic.com/linksubmit/push.js
 ||zz.bdstatic.com^
 ||zz.imiqian.com^
@@ -372,6 +390,7 @@ cn.pornhub.com###pb_top_bar
 cn.pornhub.com###videoListSearchResults > div.premiumAdvertWrapper:nth-child(4) > button.premiumAdvert.brownBtn.buttonClass
 cn.pornhub.com##.adLink
 cn.pornhub.com##.adsbytrafficjunky
+cn.pornhub.com##.dg44yw6ikvpsd8zow, .dg44yw6ikvpsd8zoc
 cn.pornhub.com##.twkocrtr4natvw, .twkocrtr4natvb
 cn.pornhub.com##.we84nn0wzoj42o1vlow, .we84nn0wzoj42o1vlob
 hentaispark.com###sticky-banner-3876716 > iframe:first-child
@@ -381,6 +400,8 @@ lldk.hsdfhb.com^
 llfei.luluyouyue.com^
 llsyndication.r+B181:B264srv.com/ webmshare.com##.close
 pixiv.net##.k6gnhb-0, .khklTY
+pornhub.com###countryRedirectMessage
+pornhub.com##.ad-link
 sfmcompile.club##.code-block, .code-block-2
 webmshare.com###app > div.container:nth-child(2) > div.visible-xs.alert.alert-info:nth-child(2)
 webmshare.com##.hidden-xs, .alert, .alert-info
@@ -389,24 +410,3 @@ xanimu.com##.beside-video
 xanimu.com##.inside-list-absolute, .d-flex, .align-items-center, .justify-content-center
 xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
-||s4.histats.com^
-||ps.ssl.qhmsg.com^
-||syndication.realsrv.com/vregister.php
-||s3t3d2y7.ackcdn.net^
-||syndication.realsrv.com^
-||zh.stripchat.com^
-/skin/jquery-2.2.4.min.js
-||361ey.vip^
-||87yyhh.com^
-||251hgvip.com^
-||361ez.vip^
-||img01.pp3q.com:58888/img/tg/
-||fans.91p20.space^
-||adserver.juicyads.com^
-pornhub.com###countryRedirectMessage
-cn.pornhub.com##.dg44yw6ikvpsd8zow, .dg44yw6ikvpsd8zoc
-pornhub.com##.ad-link
-||evtubescms.phncdn.com^
-||hw-cdn2.adtng.com/a7/creatives/*
-||vz-cdn2.adtng.com^
-||sc03.alicdn.com^
