@@ -410,3 +410,6 @@ xanimu.com##.beside-video
 xanimu.com##.inside-list-absolute, .d-flex, .align-items-center, .justify-content-center
 xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
+||fq5yy.com^
+||fq5yy.com/?uid=JJ000035
+||s3t3d2y7.ackcdn.net^
