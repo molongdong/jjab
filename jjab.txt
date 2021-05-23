@@ -61,9 +61,12 @@
 @@||app.adjust.world^
 @@||at.alicdn.com/t/*$domain=space.bilibili.com
 @@||c.tieba.baidu.com/c/s/msg$app=com.huanchengfly.tieba.post
+@@||c.tieba.baidu.com/c/s/searchpost
 @@||cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.min.js$domain=avgle.com
+@@||cdnjs.cloudflare.com^$domain=hanime.tv
 @@||dataflow.biliapi.com^$app=com.bilibili.app.in
 @@||downmobile.kugou.com/upload/custom_sound^
+@@||hentai.as/app/1.1.2/public/magnific-popup/jquery.magnific-popup.js
 @@||hw-cdn2.adtng.com^$domain=cn.pornhub.com
 @@||img.997pp.com^
 @@||img.alicdn.com/bao^$domain=m.intl.taobao.com
@@ -74,9 +77,11 @@
 @@||media.trafficjunky.net^$domain=cn.pornhub.com
 @@||mt.ssznrs.com/mt.js$domain=bz2021.com
 @@||pppp.642p.com^
+@@||qingbeiban.com/jijidy/js/play/Tongji.js$domain=jijikb.com
 @@||rule34.world^$app=com.example.hikerview
 @@||s3t3d2y7.ackcdn.net/library/560686/f4cf5d99e278f9af8f4eec9467f064269b89c1cf.mp4$domain=syndication.exosrv.com
 @@||static.hdslb.com/js/jquery-3.3.1.min.js$domain=bilibili.com
+@@||zz.bdstatic.com/linksubmit/push.js
 @@koubei-cateogory.alicdn.com
 @@webmshare.com
 @@webplay.weilekangnet.com:59666^
@@ -158,6 +163,8 @@
 ||cj033.cc^
 ||cn.aa101.net^
 ||cn.ac101.vip^
+||cnzz.com^
+||cnzz.mmstat.com^
 ||crownchemical.cn^
 ||d.pixiv.org/file$domain=pixiv.net
 ||d0d4af1828440779.com/love/footer.js
@@ -194,6 +201,8 @@
 ||fj31.cc^
 ||fkesfg.com^
 ||fo.iphonevip.cn^
+||fq5yy.com/?uid=JJ000035
+||fq5yy.com^
 ||fxzdata.com^
 ||gdc2091.cc-club.com.cn^
 ||gg.15tbggjd.xyz/images^
@@ -204,6 +213,7 @@
 ||google-analytics.com^
 ||googletagmanager.com^
 ||h8j.oufuwl2.cn^
+||hanime.tv/dist/s/exoclick.ads.1.0.0.js$domain=hanime.tv
 ||here.aiecosphere.com^
 ||hh66x.com^$popup
 ||hh99x.com$popup
@@ -213,9 +223,11 @@
 ||huya-kefu.oss-cn-hangzhou.aliyuncs.com^
 ||hw-cdn.trafficjunky.net/uploaded_content/creative/*$domain=cn.pornhub.com
 ||hw-cdn2.adtng.com/a7/creatives/*
+||hw-cdn2.adtng.com/delivery/vortex/vortex-simple-1.0.0.js$domain=a.adtng.com
 ||hyfgh.com^
 ||hzrmwrzek3.xnqncs.com^
 ||i0.hdslb.com/bfs/sycp/*
+||i1.wp.com^$domain=hanime.tv
 ||images.queen0808.com^
 ||images4.c-ctrip.com^
 ||img.alicdn.com/imgextra/*
@@ -231,6 +243,9 @@
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=^
 ||imgs.dlads.cn^
 ||janfeel.com^
+||jiaoyibao.net.cn/dli.js
+||jiaoyibao.net.cn/haoyun.js
+||jiaoyibao.net.cn/hezuo.js
 ||js.weilekangnet.com:59988/js/js_all.js?v=1
 ||juhuasuanguanwang.cn^
 ||k.qsbxg2.com^
@@ -240,6 +255,7 @@
 ||kmaa15.com^
 ||kr.axyqd.cn^
 ||l.maccms.0^
+||laoliulaoliu.com^
 ||lex.znykg.cn^
 ||lj2.urd9d89.cn^
 ||lmtp.cdn.bcebos.com^
@@ -280,10 +296,12 @@
 ||public.andian-ceramic.cn^
 ||push.zhanzhang.baidu.com/push.js
 ||q6.zyg1eg.cn^
+||q68.beiwaicd.com^
 ||qfihdr.com^
 ||qingrihr.cn^
 ||qm5uom.vip^
 ||qubo07.com^
+||qzsmb.top^
 ||rc16.cc^
 ||realsrv.com^
 ||realsrv.com^$popup
@@ -291,6 +309,7 @@
 ||rhczqkyz.renrentj.com^
 ||richu-d.com^
 ||rsdatas.oss-accelerate.aliyuncs.com^
+||s.szwanghulou.cn^
 ||s3t3d2y7.ackcdn.net^
 ||s4.histats.com^
 ||s58p.com/imaegs/jquery/ff.js
@@ -306,6 +325,7 @@
 ||sfdh1.com/skin/1jia0/more/js/easing.js
 ||sfdh1.com/skin/1jia0/more/js/jquery.js
 ||sfdh1.com/skin/1jia0/more/js/js.js
+||shouvip.kzhqtx.com^
 ||sn666i.xyz^
 ||snssdk.com^
 ||sodhef.com^
@@ -332,10 +352,12 @@
 ||tp.vinuxhome.com^
 ||tp.zzyanhushi.com^
 ||tuku.zgdykeji.com/hjc/^
+||tukuvip.hncsdayu.com^
 ||u2vo.vip^
 ||untruewring.com^
 ||vbf340126.ahhykg.cn^
 ||vbf340126.u05m.cn^
+||vipdaka.xmhz6.com^
 ||vsd2319993.lsiskol.cn^
 ||vz-cdn2.adtng.com^
 ||w7.sn666t.xyz^
@@ -367,10 +389,13 @@
 ||xxl.lylifa.com^
 ||xxmh227.com^
 ||xxmh228.com^
+||xxshuyuan.com/theway/By^
 ||yehi01.live^
 ||yfdown.rd87.cn^
 ||yftj.rd87.cn^
 ||ymaterials.cn^
+||yuwantu.xaysys.com^
+||z2.songyuelongju.com
 ||zgk.24kys.cn^
 ||zh.chaturbate.com^
 ||zh.stripchat.com^
@@ -393,6 +418,8 @@ cn.pornhub.com##.adsbytrafficjunky
 cn.pornhub.com##.dg44yw6ikvpsd8zow, .dg44yw6ikvpsd8zoc
 cn.pornhub.com##.twkocrtr4natvw, .twkocrtr4natvb
 cn.pornhub.com##.we84nn0wzoj42o1vlow, .we84nn0wzoj42o1vlob
+hanime.tv###app > div.application--wrap:last-child > main.content:nth-child(4) > div.content--wrap > div.container.pa-0.fluid > div.video.page.flex.column.align-center > div.segment-remainder.flex.column:nth-child(2) > div.mb-5.mt-5.htvad.desktop.active:last-child
+hanime.tv###related_content > div.relative.rc-section:nth-child(2) > div.htvad.desktop.ntv.hidden-sm-and-down.flex.row.my-3
 hentaispark.com###sticky-banner-3876716 > iframe:first-child
 img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=
 ll7d5r02.alichayi.com
@@ -403,6 +430,8 @@ pixiv.net##.k6gnhb-0, .khklTY
 pornhub.com###countryRedirectMessage
 pornhub.com##.ad-link
 sfmcompile.club##.code-block, .code-block-2
+t.bilibili.com###app > div > div.home-page.f-clear:last-child > div.home-container:nth-child(2) > div.home-content > div.right-panel:last-child > div.ad-panel:nth-child(2)
+t.bilibili.com###app > div > div.home-page.f-clear:last-child > div.home-container:nth-child(2) > div.home-content > div.right-panel:last-child > div.ad-panel:nth-child(2) > div.swiper-container.ad-swiper.swiper-container-initialized.swiper-container-horizontal:first-child > div.swiper-wrapper:first-child > div.ad-slide.swiper-slide.swiper-slide-active
 webmshare.com###app > div.container:nth-child(2) > div.visible-xs.alert.alert-info:nth-child(2)
 webmshare.com##.hidden-xs, .alert, .alert-info
 xanimu.com##.after-boxes
@@ -410,6 +439,3 @@ xanimu.com##.beside-video
 xanimu.com##.inside-list-absolute, .d-flex, .align-items-center, .justify-content-center
 xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
-||fq5yy.com^
-||fq5yy.com/?uid=JJ000035
-||s3t3d2y7.ackcdn.net^
