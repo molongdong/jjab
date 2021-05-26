@@ -443,3 +443,4 @@ xanimu.com##.related-boxes-footer
 /skin/common.htm
 @@||phncdn.com/videos/*$domain=cn.pornhub.com
 @@||phncdn.com/pics/*$domain=cn.pornhub.com
+@@||phncdn.com/is-static/images/*$domain=cn.pornhub.com
