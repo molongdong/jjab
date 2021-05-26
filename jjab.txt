@@ -442,3 +442,4 @@ xanimu.com##.related-boxes-footer
 ||s10.histats.com^
 /skin/common.htm
 @@||phncdn.com/videos/*$domain=cn.pornhub.com
+@@||phncdn.com/pics/*$domain=cn.pornhub.com
