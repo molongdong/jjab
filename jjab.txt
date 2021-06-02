@@ -444,3 +444,13 @@ xanimu.com##.related-boxes-footer
 @@||phncdn.com/videos/*$domain=cn.pornhub.com
 @@||phncdn.com/pics/*$domain=cn.pornhub.com
 @@||phncdn.com/is-static/images/*$domain=cn.pornhub.com
+||dataflow.biliapi.com^
+||data.bilibili.com^
+||mp.weixin.qq.com/mp/jsreport?
+||mp.weixin.qq.com^$removeparam=key
+||dnet.mb.qq.com^
+||c.daizhangguanjia.com.cn^
+||vcd.yztmhy.com^
+||dpp.qinruisw.com^
+||23gdfse.topcutbullmer.com.cn^$app=ui.pk.pk
+@@||mars.jd.com/log/sdk$app=com.jingdong.app.mall
