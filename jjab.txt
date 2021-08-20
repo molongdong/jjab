@@ -217,8 +217,6 @@ bilibili.com##.vcd
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=^
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=
 ||img2.dingshengjishu.com/gdsgshehdf/
-||img12.360buyimg.com^
-||img11.360buyimg.com^
 ||img01.pp3q.com:58888/img/tg//gif/*.gif^
 ||img01.pp3q.com:58888/img/tg//bfqx/*.gif^
 ||img01.pp3q.com:58888/img/tg/
@@ -356,6 +354,7 @@ bilibili.com##.vcd
 ||361ez.vip^
 ||361ey.vip^
 ||361ax.vip^
+||360buyimg.com^
 ||3376.cniyc.com^
 ||3337783.com^
 ||3337781.com^
@@ -402,7 +401,6 @@ bilibili.com##.vcd
 @@||mars.jd.com/log/sdk$app=com.jingdong.app.mall
 @@||js.hldslgg.com^$domain=yw8fap3ln6u5tm8zbaezgjvjjus4z6o.com
 @@||iwx.mail.qq.com^$app=com.tencent.androidqqmail
-@@||img01.pp3q.com^
 @@||img.ny5159.com^
 @@||img.alicdn.com/tps^$domain=m.intl.taobao.com
 @@||img.alicdn.com/bao^$domain=m.intl.taobao.com
@@ -476,4 +474,3 @@ bilibili.com##.vcd
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child > a
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child
 ###btmBox > div.wrap > div.mod.clearfix
-||360buyimg.com^
