@@ -474,3 +474,14 @@ bilibili.com##.vcd
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child > a
 ###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child
 ###btmBox > div.wrap > div.mod.clearfix
+||pic7.58cdn.com.cn^
+||pic1.58cdn.com.cn^
+||clb-8cb9ed721fde0b3f.sharetrace.com^
+||855hh.vip^
+@@/skin/common.htm
+||img01.pp3q.com:58888/img/tg/dp/
+||s3tu.com/images/*
+###midBox 
+###coupletRight 
+###coupletLeft
+###btmBox
