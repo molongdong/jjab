@@ -130,6 +130,7 @@ bilibili.com##.vcd
 ||s58p.com/love/dl.js
 ||s58p.com/imaegs/jquery/ff.js
 ||s4.histats.com^
+||s3tu.com/images/*
 ||s3t3d2y7.ackcdn.net^
 ||s10.histats.com^
 ||s.szwanghulou.cn^
@@ -155,11 +156,13 @@ bilibili.com##.vcd
 ||pos.baidu.com^
 ||pjq8.vip^
 ||pil.cheeseshooter.top^
+||pic7.58cdn.com.cn^
 ||pic6.58cdn.com.cn^
 ||pic5.58cdn.com.cn^
 ||pic3.58cdn.com.cn^$important
 ||pic3.58cdn.com.cn^
 ||pic2.58cdn.com.cn^
+||pic1.58cdn.com.cn^
 ||pic.windtch.com^
 ||pic.imgdb.cn/item/*
 ||pic.cytcm.com^
@@ -179,6 +182,7 @@ bilibili.com##.vcd
 ||mp.weixin.qq.com/mp/jsreport?
 ||mp.weixin.qq.com/mp/getappmsgad^
 ||mp.weixin.qq.com/mp/advertisement^
+||miai-ldy.hongfeiyue.com^
 ||main21.tjtxcjs.com^
 ||main19.xnykcpj.com$popup
 ||main17.fushengdc.com^
@@ -212,14 +216,14 @@ bilibili.com##.vcd
 ||jiaoyibao.net.cn/haoyun.js
 ||jiaoyibao.net.cn/dli.js
 ||janfeel.com^
+||imgwetuku.qwpr3.com^$important
 ||imgvipk.sqjrqygy.com^
+||imgsoul.wdlny.com^
 ||imgs.dlads.cn^
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=^
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=
 ||img2.dingshengjishu.com/gdsgshehdf/
-||img01.pp3q.com:58888/img/tg//gif/*.gif^
-||img01.pp3q.com:58888/img/tg//bfqx/*.gif^
-||img01.pp3q.com:58888/img/tg/
+||img01.pp3q.com^
 ||img.xstbxn.cn^
 ||img.gsspat.jp/e/*$domain=pixiv.net
 ||img.downk.cc/item/*
@@ -301,6 +305,7 @@ bilibili.com##.vcd
 ||cnzz.com^
 ||cn.ac101.vip^
 ||cn.aa101.net^
+||clb-8cb9ed721fde0b3f.sharetrace.com^
 ||cj033.cc^
 ||cj031.cc^
 ||chennalimages.s3.ap-east-1.amazonaws.com^
@@ -345,6 +350,7 @@ bilibili.com##.vcd
 ||91adv.com^
 ||888.ssznrs.com^
 ||87yyhh.com^
+||855hh.vip^
 ||6117222.com^
 ||5551922.com^
 ||5551650.com^
@@ -354,7 +360,6 @@ bilibili.com##.vcd
 ||361ez.vip^
 ||361ey.vip^
 ||361ax.vip^
-||360buyimg.com^
 ||3376.cniyc.com^
 ||3337783.com^
 ||3337781.com^
@@ -401,6 +406,7 @@ bilibili.com##.vcd
 @@||mars.jd.com/log/sdk$app=com.jingdong.app.mall
 @@||js.hldslgg.com^$domain=yw8fap3ln6u5tm8zbaezgjvjjus4z6o.com
 @@||iwx.mail.qq.com^$app=com.tencent.androidqqmail
+@@||img01.pp3q.com:58888/img/covers/
 @@||img.ny5159.com^
 @@||img.alicdn.com/tps^$domain=m.intl.taobao.com
 @@||img.alicdn.com/bao^$domain=m.intl.taobao.com
@@ -416,6 +422,7 @@ bilibili.com##.vcd
 @@||at.alicdn.com/t/*$domain=space.bilibili.com
 @@||app.adjust.world^
 @@||a.realsrv.com/ads.js$domain=hentaispark.com
+@@/skin/common.htm
 /wz/dp_img.js
 /tj_vod.js
 /tj_baidu_yw.js
@@ -451,37 +458,8 @@ bilibili.com##.vcd
 */tj.js|
 */ads/
 ###slide_ad > div.slide-gg
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(5) > dt:first-child > a
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(5) > dt:first-child
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(4) > dt:first-child > a
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(4) > dt:first-child
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(3) > dt:first-child > a
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(3) > dt:first-child
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(2) > dt:first-child > a
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:nth-child(2) > dt:first-child
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:last-child > dt:first-child > a
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:last-child > dt:first-child
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:first-child > dt:first-child > a
-###midBox > div.wrap:first-child > div.mod.clearfix > div.row.col4 > dl:first-child > dt:first-child
-###midBox > div.wrap:first-child
-###hengfu_pc_vod_shang_img
-###coupletRight > ul > li > a:nth-child(2)
-###coupletRight > ul > li
-###coupletLeft > ul > li > a:nth-child(2)
-###coupletLeft > ul > li
-###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:last-child > dt:first-child > a
-###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:last-child > dt:first-child
-###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child > a
-###btmBox > div.wrap > div.mod.clearfix > div.row.col2 > dl:first-child > dt:first-child
-###btmBox > div.wrap > div.mod.clearfix
-||pic7.58cdn.com.cn^
-||pic1.58cdn.com.cn^
-||clb-8cb9ed721fde0b3f.sharetrace.com^
-||855hh.vip^
-@@/skin/common.htm
-||img01.pp3q.com:58888/img/tg/dp/
-||s3tu.com/images/*
 ###midBox 
+###hengfu_pc_vod_shang_img
 ###coupletRight 
 ###coupletLeft
 ###btmBox
