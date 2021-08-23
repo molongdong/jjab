@@ -223,7 +223,6 @@ bilibili.com##.vcd
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=^
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=
 ||img2.dingshengjishu.com/gdsgshehdf/
-||img01.pp3q.com^
 ||img.xstbxn.cn^
 ||img.gsspat.jp/e/*$domain=pixiv.net
 ||img.downk.cc/item/*
