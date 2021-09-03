@@ -30,6 +30,8 @@ cn.pornhub.com###pb_top_bar
 cn.pornhub.com###pb_block
 cn.pornhub.com###\31 619190536706 > div.jb14ew4qv.clearfix:first-child > div:last-child > div
 bilibili.com##.vcd
+3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
+3dmgame.com##.tonglona_3
 ||zz.imiqian.com^
 ||zz.bdstatic.com^
 ||zz.bdstatic.com/linksubmit/push.js
@@ -42,6 +44,7 @@ bilibili.com##.vcd
 ||zh.chaturbate.com^
 ||zgk.24kys.cn^
 ||z2.songyuelongju.com
+||yx.3dmgame.com^
 ||yuwantu.xaysys.com^
 ||ymaterials.cn^
 ||yftj.rd87.cn^
@@ -92,6 +95,7 @@ bilibili.com##.vcd
 ||tp.zzyanhushi.com^
 ||tp.vinuxhome.com^
 ||to.wgmrpx.com^
+||tj.shwswl.cn^
 ||tetiao9.com^
 ||tdyo9gcan.vip^
 ||tailtoy.xyz^
@@ -156,18 +160,12 @@ bilibili.com##.vcd
 ||pos.baidu.com^
 ||pjq8.vip^
 ||pil.cheeseshooter.top^
-||pic7.58cdn.com.cn^
-||pic6.58cdn.com.cn^
-||pic5.58cdn.com.cn^
-||pic3.58cdn.com.cn^$important
-||pic3.58cdn.com.cn^
-||pic2.58cdn.com.cn^
-||pic1.58cdn.com.cn^
 ||pic.windtch.com^
 ||pic.imgdb.cn/item/*
 ||pic.cytcm.com^
 ||pfdspg.me^
 ||pfa51.xyz
+||pbmp.ali213.net/js/
 ||p26-tt.byteimg.com^
 ||p.qlogo.cn/qqmail_head/*
 ||p.pstatp.com/origin/*
@@ -223,6 +221,7 @@ bilibili.com##.vcd
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=^
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=
 ||img2.dingshengjishu.com/gdsgshehdf/
+||img01.pp3q.com^
 ||img.xstbxn.cn^
 ||img.gsspat.jp/e/*$domain=pixiv.net
 ||img.downk.cc/item/*
@@ -277,8 +276,10 @@ bilibili.com##.vcd
 ||eo.mc-t.com.cn^
 ||eo.5wrtrq.cn^
 ||dyx0878.cn^
+||dup.baidustatic.com^
 ||dt14.xxsxeyfd.com^
 ||dt12.jxzcfl.com$popup
+||dsp.ali213.net^
 ||dreamseekerguziqi.com^
 ||dpp.qinruisw.com^
 ||dnet.mb.qq.com^
@@ -338,6 +339,7 @@ bilibili.com##.vcd
 ||ap.91adv.com.cn/ZB/*
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
+||ali213.net/pubjs/SetScreen
 ||ahhykg.cn^
 ||ae04.alicdn.com^
 ||ae01.alicdn.com^$important
@@ -428,6 +430,7 @@ bilibili.com##.vcd
 /skin/jquery-2.2.4.min.js
 /skin/common.htm
 /sentry-5.6.3.min.js
+/pagead2.
 /p1.js
 /new/assets/js/common/discor/discor.js
 /new/assets/js/common/discor.js
@@ -448,6 +451,7 @@ bilibili.com##.vcd
 /dingpiao_wap_web.js?v=
 /clipboard.js
 /c-22-25.js
+/advert.
 .zxc454.com^
 .crownchemical.cn
 .akamaized.net
