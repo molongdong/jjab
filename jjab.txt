@@ -490,3 +490,6 @@ bilibili.com##.vcd
 @@||q.jlc001.com/static/js/_pc.js?1300030
 ||cornpic.com^
 ||img*.360buyimg.com^
+||8735257.com^
+@@||2pvjgiyi1.com^
+@@||p.pstatp.com/origin/*
