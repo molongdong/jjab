@@ -339,8 +339,6 @@ bilibili.com##.vcd
 ||cdn.cnbj1.fds.api.mi-img.com^
 ||cdn.cloudimagesb.com^
 ||cdn.amghqgw.cn^
-||cbu01.alicdn.com^$important
-||cbu01.alicdn.com^
 ||c.szsyzszy.cn^
 ||c.sxzhg.cn^
 ||c.ee035.cn^
