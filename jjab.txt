@@ -442,7 +442,6 @@ bilibili.com##.vcd
 @@||phncdn.com/videos/*$domain=cn.pornhub.com
 @@||phncdn.com/pics/*$domain=cn.pornhub.com
 @@||phncdn.com/is-static/images/*$domain=cn.pornhub.com
-@@||p.pstatp.com/origin/*
 @@||mt.ssznrs.com/mt.js$domain=bz2021.com
 @@||media.trafficjunky.net^$domain=cn.pornhub.com
 @@||mars.jd.com/log/sdk$app=com.jingdong.app.mall
