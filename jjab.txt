@@ -508,3 +508,12 @@ bilibili.com##.vcd
 ###coupletRight 
 ###coupletLeft
 ###btmBox
+||400247.com/xy/tc.js
+||www.govhechi.cn^
+||www.400247.com^
+||m.nljie.com^
+||hbt.ahjdfs.com^
+||hscsjx.cn^
+@@||cdn.jsdelivr.net/gh/*$domain=www.hisprice.cn
+||qdt.lxksalary.com^
+||img10.360buyimg.com/ddimg/jfs^
