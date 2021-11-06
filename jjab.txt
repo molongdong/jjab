@@ -1,5 +1,5 @@
 !Title: jjab
-! Homepage: https://github.com/molongdong/jjab/edit/main/jjab.txt
+! Homepage: https://github.com/molongdong/jjab/
 ! By: molongdong
 ###btmBox
 ###coupletLeft
