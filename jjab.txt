@@ -61,7 +61,6 @@
 @@||img.alicdn.com/tps^$domain=m.intl.taobao.com
 @@||img.ny5159.com^
 @@||img01.pp3q.com:58888/img/covers/$important
-@@||img01.pp3q.com^
 @@||iwx.mail.qq.com^$app=com.tencent.androidqqmail
 @@||js.hldslgg.com^$domain=yw8fap3ln6u5tm8zbaezgjvjjus4z6o.com
 @@||m3u8.46cdn.com^$important
