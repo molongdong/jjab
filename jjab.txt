@@ -11,6 +11,7 @@
 .ahhykg.cn
 .akamaized.net
 .crownchemical.cn
+.x6b77.com/skin/base.js
 .xxmh645.com
 .zxc454.com^
 /advert.
@@ -78,6 +79,7 @@
 @@||rule34.world^$app=com.example.hikerview
 @@||s3t3d2y7.ackcdn.net/library/560686/f4cf5d99e278f9af8f4eec9467f064269b89c1cf.mp4$domain=syndication.exosrv.com
 @@||static.hdslb.com/js/jquery-3.3.1.min.js$domain=bilibili.com
+@@||sycdn.comtucdncom.com/upload/vod/*
 @@||webmshare.com^
 @@||zz.bdstatic.com/linksubmit/push.js
 @@koubei-cateogory.alicdn.com
@@ -136,6 +138,10 @@
 ||5936084.com^
 ||5wvx8g.com^
 ||6117222.com^
+||6665216.com^
+||789149.xyz/addons/videojs/static/video-ads.js
+||789149.xyz/static/js/home.js
+||789149.xyz/static/js/jquery.autocomplete.js
 ||7kq26u.com^
 ||7zfuc0.com^
 ||855hh.vip^
@@ -156,6 +162,7 @@
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||ap.91adv.com.cn/ZB/*
+||api.maccms.site/cms/jquery.ajax.js
 ||api.zhaoxbk.com^
 ||app111111.xyz^
 ||app9788010.xyz$popup
@@ -172,6 +179,9 @@
 ||b30jt32e.bjjxry.cn^
 ||b6pq75.com^
 ||bb.shidaikongcheng.cn^
+||bbq999.oss-cn-shenzhen.aliyuncs.com
+||bbq999.oss-cn-shenzhen.aliyuncs.com/xhcvs84/*.apk
+||bbq999.oss-cn-shenzhen.aliyuncs.com/xhcvs84/10675.apk
 ||bbq999.oss-cn-shenzhen.aliyuncs.com^
 ||bbq999.oss-cn-shenzhen.aliyuncs.com^$important
 ||be10.vip^
@@ -187,6 +197,7 @@
 ||c.montherchina.cn^
 ||c.sxzhg.cn^
 ||c.szsyzszy.cn^
+||cbu01.alicdn.com/img/ibank/*
 ||cdn.amghqgw.cn^
 ||cdn.cangtianbfq.com^
 ||cdn.cloudimagesb.com^
@@ -274,6 +285,7 @@
 ||googleads.g.doubleclick.net^
 ||google-analytics.com^
 ||googletagmanager.com^
+||govguangxi.cn^
 ||gudianhr.com^
 ||h8j.oufuwl2.cn^
 ||hanime.tv/dist/s/exoclick.ads.1.0.0.js$domain=hanime.tv
@@ -302,6 +314,7 @@
 ||images.queen0808.com^
 ||images4.c-ctrip.com^
 ||img.123456img.com^
+||img.83djw2.com/style/*
 ||img.alicdn.com/imgextra/*
 ||img.beingfine.cn^$app=cn.com.langeasy.LangEasyLexis
 ||img.downk.cc/item/*
@@ -496,6 +509,14 @@
 ||www.1990tu.com^
 ||www.400247.com^
 ||www.appxx.cc^
+||www.fdw2ssasfsddsdcom.com/love/dl.js
+||www.fdw2ssasfsddsdcom.com/love/footer.js
+||www.fdw2ssasfsddsdcom.com/love/header.js
+||www.fdw2ssasfsddsdcom.com/love/index-footer.js
+||www.fdw2ssasfsddsdcom.com/love/index-header.js
+||www.fdw2ssasfsddsdcom.com/love/play_bottom.js
+||www.fdw2ssasfsddsdcom.com/love/play_top.js
+||www.fdw2ssasfsddsdcom.com/love/ydcasino.js
 ||www.govhechi.cn^
 ||www.govzhajian.cn^
 ||www.longtenghuaxia.com/js/jquery-1.9.1.min.js
@@ -580,6 +601,31 @@
 47.57.127.226$network
 61.176.215.101$network
 61.176.215.132$network
+789149.xyz##.box-title
+789149.xyz##.duilian_close
+789149.xyz##div.layout-box.clearfix:nth-child(14) > ul.clearfix:last-child > div.xy:nth-child(2) > ul
+789149.xyz##div.layout-box.clearfix:nth-child(15)
+789149.xyz##div.layout-box.clearfix:nth-child(15) > ul.clearfix:last-child > div.xy:nth-child(2)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.layout-box.clearfix:nth-child(12)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:first-child
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(10)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(11)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(2)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(3)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(6)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(7)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(8)
+789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(9)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.layout-box.clearfix:nth-child(12)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(1)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(10)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(11)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(2)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(3)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(6)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(7)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(8)
+789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(9)
 bilibili.com##.vcd
 cn.pornhub.com###\31 619190536706 > div.jb14ew4qv.clearfix:first-child > div:last-child > div
 cn.pornhub.com###pb_block
@@ -611,39 +657,3 @@ xanimu.com##.beside-video
 xanimu.com##.inside-list-absolute, .d-flex, .align-items-center, .justify-content-center
 xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
-||6665216.com^
-||img.83djw2.com/style/*
-||cbu01.alicdn.com/img/ibank/*
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.layout-box.clearfix:nth-child(12)
-789149.xyz##.duilian_close
-789149.xyz##.box-title
-789149.xyz##div.layout-box.clearfix:nth-child(15) > ul.clearfix:last-child > div.xy:nth-child(2)
-||govguangxi.cn^
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.layout-box.clearfix:nth-child(12)
-789149.xyz##div.layout-box.clearfix:nth-child(14) > ul.clearfix:last-child > div.xy:nth-child(2) > ul
-789149.xyz##div.layout-box.clearfix:nth-child(15)
-||789149.xyz/addons/videojs/static/video-ads.js
-||bbq999.oss-cn-shenzhen.aliyuncs.com
-||bbq999.oss-cn-shenzhen.aliyuncs.com/xhcvs84/*.apk
-||bbq999.oss-cn-shenzhen.aliyuncs.com/xhcvs84/10675.apk
-||789149.xyz/static/js/jquery.autocomplete.js
-||789149.xyz/static/js/home.js
-||api.maccms.site/cms/jquery.ajax.js
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(1)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(2)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(3)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(6)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(7)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(8)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(9)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(10)
-789149.xyz##div.mm-content:nth-child(12) > div.row > div.row-item.even:nth-child(11)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:first-child
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(2)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(3)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(6)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(7)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(8)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(9)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(10)
-789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(11)
