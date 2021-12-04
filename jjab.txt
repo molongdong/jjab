@@ -657,3 +657,5 @@ xanimu.com##.beside-video
 xanimu.com##.inside-list-absolute, .d-flex, .align-items-center, .justify-content-center
 xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
+789149.xyz##div.m1938-container:nth-child(11)
+789149.xyz##div.m1938-container:nth-child(10)
