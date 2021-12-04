@@ -451,7 +451,6 @@
 ||static.trafficjunky.com/invocation/popunder/production/popunder.min.js$domain=cn.pornhub.com
 ||staticurl1.shenqizhilv.com:57777/img/tg//gif/*.gif
 ||stooav.com^$popup
-||sycdn.comtucdncom.com^
 ||syndication.realsrv.com/vregister.php
 ||syndication.realsrv.com^
 ||syndication.realsrv.com^$popup
