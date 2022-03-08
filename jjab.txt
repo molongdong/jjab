@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: jjab
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ###btmBox
 ###coupletLeft
 ###coupletRight 
@@ -659,3 +662,28 @@ xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
 789149.xyz##div.m1938-container:nth-child(11)
 789149.xyz##div.m1938-container:nth-child(10)
+||921.fas68s6sf12.com^
+||4.68.242.110.in-addr.arpa^
+||feed-image.baidu.com^
+||img.83djw2.com^
+||gft.gangjiuji.com^
+@@||imgsrc.baidu.com^
+@@||tiebapic.baidu.com^
+@@||tb.himg.baidu.com^
+/d?dn=
+||img01.whatfugui.com:59888/img/tg^
+@@||imgsrc.baidu.com/forum/pic^
+@@||*.xyz/toimg/data/*.png
+||ycav03.com^
+||okm.xjqzh.cn^
+||kmt.zhwpg.cn^
+||5aa.lm811.com^
+||www.meitu.store^
+||j8.gzxnqkf.cn^
+||img01.pp3q.com:58888/img/tg/
+||okr.tjsqb.top^
+||hnt.58jingxuan.top^
+||img1.360buyimg.com^$app=com.baidu.tieba_mini
+@@||tiebapic.baidu.com/forum^
+@@||tb.himg.baidu.com/sys/portraitn/item^
+@@||tb-video.bdstatic.com/tieba-smallvideo-transcode-cae^
