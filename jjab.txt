@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: jjab
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ###btmBox
@@ -7,6 +6,7 @@
 ###hengfu_pc_vod_shang_img
 ###midBox 
 ###slide_ad > div.slide-gg
+##div.mod.clearfix
 */ads/
 */tj.js|
 .00fs.pro
@@ -14,15 +14,19 @@
 .ahhykg.cn
 .akamaized.net
 .crownchemical.cn
+.dgt25623.*^
 .x6b77.com/skin/base.js
 .xxmh645.com
 .zxc454.com^
 /advert.
 /c-22-25.js
 /clipboard.js
+/d?dn=
 /dingpiao_wap_web.js?v=
 /g1.js
 /hengfu5.js
+/img/tg/*/640-200-*.gif
+/img/tg//gif/*.gif
 /ispc.js
 /jquery-3.3.1.min.js
 /js/jquery-1.9.1.min.js
@@ -46,6 +50,7 @@
 /tj_vod.js
 /wz/dp_img.js
 @@/skin/common.htm
+@@||*.xyz/toimg/data/*.png
 @@||2pvjgiyi1.com^
 @@||a.realsrv.com/ads.js$domain=hentaispark.com
 @@||app.adjust.world^
@@ -56,15 +61,19 @@
 @@||cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.min.js$domain=avgle.com
 @@||cdnjs.cloudflare.com^$domain=hanime.tv
 @@||cdnjs.cloudflare.com^$domain=x7188.top
+@@||data.bilibili.com^$domain=m.bilibili.com
 @@||dataflow.biliapi.com^$app=com.bilibili.app.in
 @@||downmobile.kugou.com/upload/custom_sound^
 @@||hentai.as/app/1.1.2/public/magnific-popup/jquery.magnific-popup.js
 @@||hw-cdn2.adtng.com^$domain=cn.pornhub.com
+@@||i0.hdslb.com^$domain=m.bilibili.com
 @@||img.997pp.com^
 @@||img.alicdn.com/bao^$domain=m.intl.taobao.com
 @@||img.alicdn.com/tps^$domain=m.intl.taobao.com
 @@||img.ny5159.com^
 @@||img01.pp3q.com:58888/img/covers/$important
+@@||imgsrc.baidu.com/forum/pic^
+@@||imgsrc.baidu.com^
 @@||iwx.mail.qq.com^$app=com.tencent.androidqqmail
 @@||js.hldslgg.com^$domain=yw8fap3ln6u5tm8zbaezgjvjjus4z6o.com
 @@||m3u8.46cdn.com^$important
@@ -80,15 +89,22 @@
 @@||q.jlc001.com/static/js/_pc.js?1300030
 @@||qingbeiban.com/jijidy/js/play/Tongji.js$domain=jijikb.com
 @@||rule34.world^$app=com.example.hikerview
+@@||s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.6.3.min.js
 @@||s3t3d2y7.ackcdn.net/library/560686/f4cf5d99e278f9af8f4eec9467f064269b89c1cf.mp4$domain=syndication.exosrv.com
 @@||static.hdslb.com/js/jquery-3.3.1.min.js$domain=bilibili.com
 @@||sycdn.comtucdncom.com/upload/vod/*
+@@||tb.himg.baidu.com/sys/portraitn/item^
+@@||tb.himg.baidu.com^
+@@||tb-video.bdstatic.com/tieba-smallvideo-transcode-cae^
+@@||tiebapic.baidu.com/forum^
+@@||tiebapic.baidu.com^
 @@||webmshare.com^
 @@||zz.bdstatic.com/linksubmit/push.js
 @@koubei-cateogory.alicdn.com
 @@webmshare.com
 @@webplay.weilekangnet.com:59666^
 @@www.v777y.com
+[Adblock Plus 2.0]
 ||00fr.pro^
 ||00fs.pro^
 ||00ft.pro^
@@ -102,12 +118,14 @@
 ||1135.zhenpin315.cn^
 ||116.193.169.58^
 ||11pvpv.com^
+||120.25.253.160:26111^
 ||154.7.125.116^
 ||16.dawosiquanjia16.com^
 ||171.hyjzsj.cn^
 ||18.66.156.39.in-addr.arpa^
 ||192.200.123.210^
 ||19920008.com^
+||1redirc.com^
 ||22.seawill.cn^
 ||23.27.16.100^
 ||23.27.16.99^
@@ -132,13 +150,16 @@
 ||361ax.vip^
 ||361ey.vip^
 ||361ez.vip^
+||361zs9.vip^
 ||3dmgame.com/page/images/icon_ad.png
+||4.68.242.110.in-addr.arpa^
 ||400247.com/xy/tc.js
 ||5550367.com^
 ||5551191.com^
 ||5551650.com^
 ||5551922.com^
 ||5936084.com^
+||5aa.lm811.com^
 ||5wvx8g.com^
 ||6117222.com^
 ||6665216.com^
@@ -200,6 +221,7 @@
 ||c.montherchina.cn^
 ||c.sxzhg.cn^
 ||c.szsyzszy.cn^
+||capi.202010000.xyz^
 ||cbu01.alicdn.com/img/ibank/*
 ||cdn.amghqgw.cn^
 ||cdn.cangtianbfq.com^
@@ -214,6 +236,7 @@
 ||cj031.cc^
 ||cj033.cc^
 ||clb-8cb9ed721fde0b3f.sharetrace.com^
+||cloudflare.newsggym.com/img/zhibo^
 ||cn.aa101.net^
 ||cn.ac101.vip^
 ||cnzz.com^
@@ -233,6 +256,7 @@
 ||dataflow.biliapi.com^
 ||dbf451.ffpfpq.cn^
 ||dc93d.yonso.cn^
+||dd.ddoscapp.cn^
 ||deifgs.com^
 ||di.fengchedaomall.cn^
 ||di.phncdn.com/www-static/js/lib/jquery-2.1.3.min.js$domain=cn.pornhub.com
@@ -260,6 +284,7 @@
 ||facilitategovernor.com
 ||fans.91p20.space^
 ||feedback-api.aliyuncs.com^
+||feed-image.baidu.com^
 ||feigedaojia.com^
 ||ff.ronyaodailian.cn^
 ||fgu.kjkdb.cn^
@@ -281,6 +306,7 @@
 ||gft.gangjiuji.com^
 ||gg.15tbggjd.xyz/images^
 ||gif.jingteinv.com^
+||gif1024.com^
 ||gn.lalaqky.cn^
 ||go.imghaha.xyz^
 ||go.imgtata.xyz^
@@ -295,6 +321,7 @@
 ||hbt.ahjdfs.com^
 ||hbt.mpastevents.com^
 ||here.aiecosphere.com^
+||hgkja.cc^
 ||hh66x.com^$popup
 ||hh99x.com$popup
 ||hh99x.com^
@@ -302,6 +329,7 @@
 ||hkrhycj.cn^
 ||hm.baidu.com^
 ||hng.duoqushop.cn^
+||hnt.58jingxuan.top^
 ||hscsjx.cn^
 ||huya-kefu.oss-cn-hangzhou.aliyuncs.com^
 ||hw-cdn.trafficjunky.net/uploaded_content/creative/*$domain=cn.pornhub.com
@@ -318,6 +346,7 @@
 ||images4.c-ctrip.com^
 ||img.123456img.com^
 ||img.83djw2.com/style/*
+||img.83djw2.com^
 ||img.alicdn.com/imgextra/*
 ||img.beingfine.cn^$app=cn.com.langeasy.LangEasyLexis
 ||img.downk.cc/item/*
@@ -328,6 +357,8 @@
 ||img01.pp3q.com:58888/img/tg/*/*.gif^
 ||img01.pp3q.com:58888/img/tg//bfqx/*.gif^
 ||img01.pp3q.com:58888/img/tg/dp/
+||img01.whatfugui.com:59888/img/tg^
+||img1.360buyimg.com^$app=com.baidu.tieba_mini
 ||img10.360buyimg.com/ddimg/jfs^
 ||img2.dingshengjishu.com/gdsgshehdf/
 ||img2.weilekangnet.com:59188/yw/dingpiao_wap_web.js?v=
@@ -338,6 +369,7 @@
 ||imgweitu.whkczf.com^
 ||imgwetuku.qwpr3.com^$important
 ||in.appcenter.ms^
+||j8.gzxnqkf.cn^
 ||janfeel.com^
 ||jiaoyibao.net.cn/dli.js
 ||jiaoyibao.net.cn/haoyun.js
@@ -346,6 +378,7 @@
 ||js.wpadmngr.com^
 ||js.yzyszy.com^
 ||jt.yiyiapay.com^
+||ju1v.chinaxinhe.net^
 ||juhuasuanguanwang.cn^
 ||k.qsbxg2.com^
 ||kc.mieyisi.com^
@@ -355,6 +388,7 @@
 ||km55.co^
 ||kmaa15.com^
 ||kmg.eastsala.cn^
+||kmt.zhwpg.cn^
 ||kr.axyqd.cn^
 ||l.maccms.0^
 ||laoliulaoliu.com^
@@ -365,6 +399,7 @@
 ||lrc2375.whldmq.cn^
 ||lsdgew23523.homallvr.com.cn^
 ||lvv95.physante.com.cn^
+||lxrbbsg.cn^
 ||m.102793.com^
 ||m.amghfoa.cn^
 ||m.czjiamei.com/js/8853/nry.js
@@ -387,9 +422,12 @@
 ||n552.cc^
 ||na.nawpush.com^
 ||new-eve.com^
+||newjs.20under20ivy.com^
 ||nobita2shizuka.com^
 ||ns-strategy.cdn.bcebos.com^
 ||ofg394210.aalaqxb.cn^
+||okm.xjqzh.cn^
+||okr.tjsqb.top^
 ||oktobro.com^
 ||open.lalanuz.cn^
 ||oth.eve.mdt.qq.com^
@@ -398,9 +436,12 @@
 ||p.pstatp.com^
 ||p.qlogo.cn/qqmail_head/*
 ||p26-tt.byteimg.com^
+||p9-tt-ipv6.byteimg.com/origin/pgc-image^
+||p9-tt-ipv6.byteimg.com^
 ||pbmp.ali213.net/js/
 ||pfa51.xyz
 ||pfdspg.me^
+||pic.181lm.com/pic/zb^
 ||pic.cytcm.com^
 ||pic.imgdb.cn/item/*
 ||pic.windtch.com^
@@ -523,14 +564,19 @@
 ||www.govhechi.cn^
 ||www.govzhajian.cn^
 ||www.longtenghuaxia.com/js/jquery-1.9.1.min.js
+||www.meitu.store^
+||www.vketrip.com^
 ||www.xs1027.xyz^
+||www-gcipyelont-com.zoxaxne.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||wyk.lzsk8.com^
 ||x3110.xyz^
 ||x6img.com^
 ||xanimu.com/core/cache/minify/9be0d.default.include-footer.364d41.js
+||xfmy168.com^
 ||xintu.crmvscrm.com^
+||xjjqljh.com^
 ||xkj-it.top^
 ||xkj-it.top^$popup
 ||xn--wxtr9fwyxk9c.xn--55qx5d^
@@ -542,6 +588,7 @@
 ||xxmh228.com^
 ||xxshuyuan.com/theway/By^
 ||yadongpan20.org/myimages/*$domain=yadongpan20.org
+||ycav03.com^
 ||yd.fhrl2018.com^
 ||yd.yuanqitu.com^
 ||yehi01.live^
@@ -609,6 +656,8 @@
 789149.xyz##div.layout-box.clearfix:nth-child(14) > ul.clearfix:last-child > div.xy:nth-child(2) > ul
 789149.xyz##div.layout-box.clearfix:nth-child(15)
 789149.xyz##div.layout-box.clearfix:nth-child(15) > ul.clearfix:last-child > div.xy:nth-child(2)
+789149.xyz##div.m1938-container:nth-child(10)
+789149.xyz##div.m1938-container:nth-child(11)
 789149.xyz##div.mm-content:nth-child(11) > div.row > div.layout-box.clearfix:nth-child(12)
 789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:first-child
 789149.xyz##div.mm-content:nth-child(11) > div.row > div.row-item.even:nth-child(10)
@@ -660,30 +709,7 @@ xanimu.com##.beside-video
 xanimu.com##.inside-list-absolute, .d-flex, .align-items-center, .justify-content-center
 xanimu.com##.inside-list-boxes
 xanimu.com##.related-boxes-footer
-789149.xyz##div.m1938-container:nth-child(11)
-789149.xyz##div.m1938-container:nth-child(10)
-||921.fas68s6sf12.com^
-||4.68.242.110.in-addr.arpa^
-||feed-image.baidu.com^
-||img.83djw2.com^
-||gft.gangjiuji.com^
-@@||imgsrc.baidu.com^
-@@||tiebapic.baidu.com^
-@@||tb.himg.baidu.com^
-/d?dn=
-||img01.whatfugui.com:59888/img/tg^
-@@||imgsrc.baidu.com/forum/pic^
-@@||*.xyz/toimg/data/*.png
-||ycav03.com^
-||okm.xjqzh.cn^
-||kmt.zhwpg.cn^
-||5aa.lm811.com^
-||www.meitu.store^
-||j8.gzxnqkf.cn^
-||img01.pp3q.com:58888/img/tg/
-||okr.tjsqb.top^
-||hnt.58jingxuan.top^
-||img1.360buyimg.com^$app=com.baidu.tieba_mini
-@@||tiebapic.baidu.com/forum^
-@@||tb.himg.baidu.com/sys/portraitn/item^
-@@||tb-video.bdstatic.com/tieba-smallvideo-transcode-cae^
+||imagedelivery.net^
+@@||h.trace.qq.com^
+@@||data.bilibili.com^
+||fas68s6sf12.com^
